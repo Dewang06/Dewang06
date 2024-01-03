@@ -21,6 +21,7 @@ I am an aspiring data analyst, to embark on an exciting journey in the world of 
 
 :computer: Projects
 ------------
-https://github.com/Dewang06/Web-Scrapping-Project
+* https://github.com/Dewang06/Web-Scrapping-Project
+* https://github.com/Dewang06/Inventory-store-analysis
 
 
