@@ -9,8 +9,7 @@ I am an aspiring data analyst, to embark on an exciting journey in the world of 
 *   🌍  I'm based in Mumbai, India
 *   ✉️  You can contact me at [dtetambe@gmail.com](mailto:dtetambe@gmail.com)
 *   🧠  I'm learning Data Analysis with Python
-*   ⚡  Having knowledge in Mysql, Excel, Python, Numpy
-                  ### Socials
+*   ⚡  Having knowledge in Mysql, Excel, Power Bi, Python, Numpy, Pandas, Matplotlib, Seaborn
 
 
   ###  :two_men_holding_hands: Socials
