@@ -22,6 +22,8 @@ I am an aspiring data analyst, to embark on an exciting journey in the world of 
 ------------
 * https://github.com/Dewang06/Zomato-Analysis-in-Python
 * https://github.com/Dewang06/Web-Scrapping-Project
+* https://github.com/Dewang06/Pizza-Sales-Analysis-in-Power-BI-and-MySQL
+* https://github.com/Dewang06/Ecommerce-Sales-Analysis-in-Excel
 * https://github.com/Dewang06/Inventory-store-analysis
 
 
