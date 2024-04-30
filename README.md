@@ -20,6 +20,7 @@ I am an aspiring data analyst, to embark on an exciting journey in the world of 
 
 :computer: Projects
 ------------
+* https://github.com/Dewang06/Croma-Analysis
 * https://github.com/Dewang06/Zomato-Analysis-in-Python
 * https://github.com/Dewang06/Web-Scrapping-Project
 * https://github.com/Dewang06/Pizza-Sales-Analysis-in-Power-BI-and-MySQL
